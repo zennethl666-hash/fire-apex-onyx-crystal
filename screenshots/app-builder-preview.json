@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ECP150S Field Manual",
+      "hasCanvas": false,
+      "bodyTextLen": 1378,
+      "bodyTextHash": "c71e18770b879a224d081b2128fcb3f5085710a8a027a7a71a3a4c9c977a98d0",
+      "bodyTextPrefix": "ECP150S Field Manual ECA scope only Pass Slides Drugs Scope Math",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ECP150S Field Manual",
+      "hasCanvas": false,
+      "bodyTextLen": 1378,
+      "bodyTextHash": "b4217dea7277fd11b60f6f7bc0b091e5c6a187ec56a166dda29215966f91260c",
+      "bodyTextPrefix": "ECP150S Field Manual ECA scope only CPUT · ECP150S · 2026 Emerge",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
